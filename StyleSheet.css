@@ -1,0 +1,88 @@
+﻿body {
+
+}
+
+* {
+    margin:0;
+    padding:0;
+}
+
+.menu
+{
+    height:50px;
+    background-color:black;
+}
+
+.menu ul
+{
+    list-style:none;
+    line-height:100px;
+}
+
+.menu ul li
+{
+    float:right;
+    line-height:50px;
+    width:200px;
+    display:block;
+    text-align:center;
+}
+
+.menu ul li a
+{
+    color:white;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:larger;
+    text-decoration:none;
+    display:block;
+}
+
+.menu ul li a:hover
+{
+    background-color:#ffffff;
+    line-height:50px;
+    color:black;
+    text-decoration:wavy;
+}
+
+.cont
+{
+    background-color:#ffffff;
+    color:black;
+    
+}
+
+.footer
+{
+    height:50px;
+    background-color:white;
+    color:black;
+}
+
+.user{
+    line-height:110px;
+    text-align:center;
+}
+
+.purchase {
+    line-height:110px;
+    text-align:center;
+}
+
+
+.sales{
+    line-height:110px;
+    text-align:center;
+}
+
+
+.supplier{
+    line-height:110px;
+    text-align:center;
+}
+
+.product{
+    line-height:110px;
+    text-align:center;
+}
